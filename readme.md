@@ -1,6 +1,4 @@
-## Hello, Git!!!
-## Hello, This is a new line
-## Hello again 
+## Hey everyone, welcome to my GIT!!!
 
--I'm adding this from the feature-branch
--I'm adding this part for fun
+
+-I'm game here
